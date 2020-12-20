@@ -23,7 +23,7 @@
 
 ## Me
 <p>
-
+    I am a developer in training, with the desire to always be learning. My name is Nathan, but you can call me NT, hahaha. Currently, I study DataScience and Web Development, two super fun and interesting niches in the programming area. I aim to become a computer science professional.
 </p>
 
 ## Status
