@@ -13,7 +13,9 @@
 
 ## Languages
 
-<img src="/Img/Python-icon.png" width="30px" display="inline">
-<img src="/Img/Javascript-icon.png" width="30px" display="inline">
-<img src="/Img/HTML-icon.png" width="30px" display="inline">
-<img src="/Img/CSS-icon.png" width="30px" display="inline">
+<p>
+<img src="/Img/Python-icon.png" width="30px"><a href="https://www.python.org/">
+<img src="/Img/Javascript-icon.png" width="30px">
+<img src="/Img/HTML-icon.png" width="30px">
+<img src="/Img/CSS-icon.png" width="30px">
+</p>
