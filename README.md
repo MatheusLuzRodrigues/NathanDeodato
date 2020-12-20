@@ -2,9 +2,9 @@
 
 ================================================================================
 
-![GitHub-followers](https://img.shields.io/github/followers/NathanDeodato?label=NT-Github&style=social)
-![Twitter-Follow](https://img.shields.io/twitter/follow/DeodatoNat?label=NT-Twitter&style=social)
-![Instagram](https://www.instagram.com/deodatont/)
+![GitHub-followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Twitter-Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ================================================================================
 
@@ -20,20 +20,7 @@
 
 ## Languages
 
-<p>
-<a href="https://www.python.org/">
-    <img src="/Img/Python-icon.png" width="50px">
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img src="/Img/Javascript-icon.png" width="50px">
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="/Img/HTML-icon.png" width="50px">
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img src="/Img/CSS-icon.png" width="50px">
-</a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
