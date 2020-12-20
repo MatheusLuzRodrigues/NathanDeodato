@@ -13,6 +13,6 @@
 
 ## Languages
 
-<img src="/Img/Python-icon.png">
-<img src="/Img/Javascript-icon.png">
-<img src="/Img/HTML-icon.png">
+<img src="/Img/Python-icon.png" width="30px">
+<img src="/Img/Javascript-icon.png" width="30px">
+<img src="/Img/HTML-icon.png" width="30px">
