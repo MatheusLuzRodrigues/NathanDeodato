@@ -36,6 +36,19 @@
 
 <img display="inline" name="Github-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact">
 
+<p align="center">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact"
+    />
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=NathanDeodato&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+</p>
+
+
 ---
 
 <h2>Languages</h2>
