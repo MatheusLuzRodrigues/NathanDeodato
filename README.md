@@ -31,13 +31,10 @@
 ---
 
 <h2>Status</h2>
-<p align="center">
 
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=NathanDeodato" height="165" display="inline">
+<img height="165" display="inline" alt="GitHub-Status" src="https://github-readme-stats.vercel.app/api?username=NathanDeodato">
 
-    <img alt="Github-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact" display="inline">
-
-</p>
+<img alt="Github-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact" display="inline">
 
 ---
 
