@@ -32,9 +32,9 @@
 
 <h2>Status</h2>
 
-<img align="center" height="165" width="100" name="GitHub-Status" src="https://github-readme-stats.vercel.app/api?username=NathanDeodato">
+<img display="inline" height="165" name="GitHub-Status" src="https://github-readme-stats.vercel.app/api?username=NathanDeodato">
 
-<img align="center" name="Github-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact">
+<img display="inline" name="Github-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact">
 
 ---
 
