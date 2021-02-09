@@ -47,7 +47,7 @@
 ---
 
 <h2>Languages</h2>
-    <p>
+    <p align="center">
         <img 
         name="Python"
         src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
@@ -69,7 +69,7 @@
 ---
 
 <h2>Tools</h2>
-    <p>
+    <p align="center">
         <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
         />
         <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
