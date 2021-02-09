@@ -1,4 +1,6 @@
-<h1>Nathan Deodato</h1>
+<h1 align="center">
+Nathan Deodato
+</h1>
 
 <h2>Me</h2>
 <p>
