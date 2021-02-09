@@ -31,7 +31,7 @@
 ---
 
 ## Status
-![Github-status](https://github-readme-stats.vercel.app/api?username=NathanDeodato){: style="heigth:165px;"}
+![Github-status](https://github-readme-stats.vercel.app/api?username=NathanDeodato){: heigth="165"}
 
 ![Github-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact)
 
