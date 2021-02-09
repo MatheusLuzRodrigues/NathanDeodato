@@ -31,44 +31,48 @@
 ---
 
 <h2>Status</h2>
-
-<img display="inline" height="165" name="GitHub-Status" src="https://github-readme-stats.vercel.app/api?username=NathanDeodato">
-
-<img display="inline" name="Github-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact">
-
-<p align="center">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact"
-    />
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=NathanDeodato&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-</p>
-
+    <p align="center">
+        <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact"
+        />
+        <img
+        align="center"
+        height="165"
+        src="https://github-readme-stats.vercel.app/api?username=NathanDeodato&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+        />
+    </p>
 
 ---
 
 <h2>Languages</h2>
-<p>
-<img name="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-<img name="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-<img name="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<img name="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
+    <p>
+        <img 
+        name="Python"
+        src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+        />
+        <img
+        name="Javascript"
+        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+        />
+        <img
+        name="HTML"
+        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+        />
+        <img
+        name="CSS"
+        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+        />
+    </p>
 
 ---
 
 <h2>Tools</h2>
-<p>
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-</p>
+    <p>
+        <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
+        />
+        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
+        />
+        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
+        />
+    </p>
