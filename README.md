@@ -1,13 +1,13 @@
-# Nathan Deodato
+<h1>Nathan Deodato</h1>
 
-## Me
+<h2>Me</h2>
 <p>
     I am a developer in training, with the desire to always be learning. My name is Nathan, but you can call me NT, hahaha. Currently, I study DataScience and Web Development, two super fun and interesting niches in the programming area. I aim to become a computer science professional.
 </p>
 
 ---
 
-## Social Media
+<h2>Social Media</h2>
 <p>
 
 <a href="https://github.com/NathanDeodato">
@@ -30,14 +30,18 @@
 
 ---
 
-## Status
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=NathanDeodato" height="165" display="inline">
+<h2>Status</h2>
+<p align="center">
 
-<img alt="Github-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact" display="inline">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=NathanDeodato" height="165" display="inline">
+
+    <img alt="Github-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact" display="inline">
+
+</p>
 
 ---
 
-## Languages
+<h2>Languages</h2>
 <p>
 <img name="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
@@ -50,7 +54,7 @@
 
 ---
 
-## Tools
+<h2>Tools</h2>
 <p>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 
