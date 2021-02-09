@@ -5,6 +5,8 @@
     I am a developer in training, with the desire to always be learning. My name is Nathan, but you can call me NT, hahaha. Currently, I study DataScience and Web Development, two super fun and interesting niches in the programming area. I aim to become a computer science professional.
 </p>
 
+---
+
 ## Social Media
 <p>
 
@@ -26,8 +28,13 @@
 
 </p>
 
+---
+
 ## Status
 ![Github-status](https://github-readme-stats.vercel.app/api?username=NathanDeodato)
+![Github-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact)
+
+---
 
 ## Languages
 <p>
@@ -39,6 +46,8 @@
 
 <img name="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
+
+---
 
 ## Tools
 <p>
