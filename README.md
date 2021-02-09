@@ -31,7 +31,7 @@
 ---
 
 ## Status
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=NathanDeodato" heigth="165">
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=NathanDeodato" height="165">
 
 <img alt="Github-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeodato&layout=compact">
 
