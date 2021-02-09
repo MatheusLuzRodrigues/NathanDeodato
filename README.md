@@ -34,7 +34,7 @@
     <p align="center">
         <img
         align="center"
-        height="165"
+        height="140"
         src="https://github-readme-stats.vercel.app/api?username=NathanDeodato&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
         />
         <img
