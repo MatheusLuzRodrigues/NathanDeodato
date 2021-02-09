@@ -8,25 +8,20 @@
 ---
 
 <h2>Social Media</h2>
-<p>
-
-<a href="https://github.com/NathanDeodato">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://t.me/Deodato_Nt">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-<a href="https://twitter.com/DeodatoNat">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/deodatont/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</p>
+    <p align="center">
+        <a href="https://github.com/NathanDeodato">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="https://t.me/Deodato_Nt">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+        </a>
+        <a href="https://twitter.com/DeodatoNat">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+        </a>
+        <a href="https://www.instagram.com/deodatont/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+        </a>
+    </p>
 
 ---
 
