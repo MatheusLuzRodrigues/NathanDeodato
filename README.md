@@ -3,7 +3,7 @@
         Iae! Sou o Nathan Deodato! 👨🏿‍💻
     </h1>
     <p>
-        oi
+        Olá! Sou um programador junior Front-End em desenvolvimento. Estar em constante aprendizado e evolução é minha paixão! 
     </p>
     <ul>
         <li>🌐 Front-End Developer</li>
